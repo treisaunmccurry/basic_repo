@@ -1,0 +1,1 @@
+Merging takes two or more branches and combines their history into one.
