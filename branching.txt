@@ -1,2 +1,3 @@
 Branching marks the point where files in repository diverge. 
 It allows us to collaborate with other developers.
+git branch - to see what branches exist.

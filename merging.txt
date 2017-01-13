@@ -1,1 +1,2 @@
 Merging takes two or more branches and combines their history into one.
+There are two kinds of merging: Straight merge and Squashed merge.
