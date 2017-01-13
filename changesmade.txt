@@ -1,0 +1,17 @@
+1. Created a new repo on GiotHub and called it basic_repo.
+2. Created a local repository also called basic_repo.
+	mkdir basic_repo
+	cd basic_repo
+	git init
+3. Created some files inside my local repo and added some content to them
+	touch branching.txt
+	touch merging.txt
+4. Added, commited, and pushed these changes to GitHub
+	git add branching.txt
+	git add merging.txt
+	git commit -m "initial commit"
+	git remote add origin ttps://github.com/treisaunmccurry/basic_repo.git
+5. Made more changes to the local copies of my files and pushed them to GitHub
+	git push
+6. Created and uploaded a simple.txt file (changesmade.txt) that outlines the steps I took.
+	touch changesmade.txt
